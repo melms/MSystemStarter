@@ -1,11 +1,3 @@
-## Project
-
-A simple widget listing several accounts. Accounts can be followed and unfollowed, confirmed by animated onscreen alerts.
-
-App ~ 70 lines
-
-Styling ~ 140 lines
-
 ## Overview
 
 /src/MSystem.js is an evergrowing MVC framework built on React with powerful Views, Controllers, and Models instead of a plain Component. The goals are to:
