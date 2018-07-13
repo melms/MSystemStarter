@@ -1,8 +1,8 @@
 
 /* BODY */
 body {
-	--themeBG: black;
-	--themePrimary: white;
+	--themeBG: white;
+	--themePrimary: black;
 	background: var(--themeBG);
 	color: var(--themePrimary);
 }
