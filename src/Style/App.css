@@ -1,0 +1,23 @@
+
+/* BODY */
+body {
+	--themeBG: black;
+	--themePrimary: white;
+	background: var(--themeBG);
+	color: var(--themePrimary);
+}
+
+
+
+/* CONTROLLERS */
+.Root {
+	padding: 20px;
+}
+
+
+
+/* VIEWS */
+.Header {
+	font-size: 34px;
+	font-weight: bold;
+}
